@@ -1,0 +1,2 @@
+# algorithm-traning
+Various exercises 
