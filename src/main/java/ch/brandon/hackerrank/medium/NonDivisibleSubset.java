@@ -29,10 +29,6 @@ class NonDivisibleSubset {
                 continue;
             }
 
-            if (r > complementary) {
-                break;
-            }
-
             if (r == 0) { // if the remainder is 0, we can only add the element once
                 maxSize += 1;
             } else if (r == complementary) { // if the remainder = its complementary, we can only add one elem
