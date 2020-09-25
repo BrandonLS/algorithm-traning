@@ -1,10 +1,10 @@
-package ch.brandon.hackerrank.medium;
+package ch.brandon.hackerrank.algorithms;
 
 import org.junit.Test;
 
 import java.util.List;
 
-import static ch.brandon.hackerrank.medium.NonDivisibleSubset.nonDivisibleSubset;
+import static ch.brandon.hackerrank.algorithms.NonDivisibleSubset.nonDivisibleSubset;
 import static org.junit.Assert.assertEquals;
 
 public class NonDivisibleSubsetTest {

@@ -1,4 +1,4 @@
-package ch.brandon.hackerrank.medium;
+package ch.brandon.hackerrank.algorithms;
 
 import java.util.ArrayList;
 import java.util.HashMap;
