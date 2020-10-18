@@ -18,5 +18,4 @@ public class MarkToys {
         }
         return currentMax;
     }
-
 }
