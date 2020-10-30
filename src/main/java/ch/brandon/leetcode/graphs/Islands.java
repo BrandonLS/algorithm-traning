@@ -12,9 +12,9 @@ public class Islands {
         fillFalse(isVisited);
 
         int counter = 0;
-        for (int i = 0; i <m; i++) {
+        for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-                if(grid[i][j] == '1' && !isVisited[i][j]) {
+                if (grid[i][j] == '1' && !isVisited[i][j]) {
                     markVisited(grid, isVisited, i, j);
                     counter++;
                 }
